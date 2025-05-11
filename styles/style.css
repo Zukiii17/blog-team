@@ -123,4 +123,18 @@ table {
   border-spacing: 0;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
 /* !Main */
+
+@font-face {
+  font-family: "deca";
+  src: url("../assets/fonts/LexendDeca.ttf.ttf");
+}
+
+body {
+  font-family: "deca", "Arial Narrow", Arial, sans-serif;
+}
